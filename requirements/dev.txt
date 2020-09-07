@@ -332,3 +332,5 @@ wrapt==1.12.1 \
 # pinned when the requirements file includes hashes. Consider using the --allow-unsafe flag.
 # pip
 # setuptools
+
+pip>=19.2 # not directly required, pinned by Snyk to avoid a vulnerability
