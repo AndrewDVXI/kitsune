@@ -334,7 +334,7 @@ kombu==4.6.9 \
     --hash=sha256:ab0afaa5388dd2979cbc439d3623b86a4f7a58d41f621096bef7767c37bc2505 \
     --hash=sha256:aece08f48706743aaa1b9d607fee300559481eafcc5ee56451aa0ef867a3be07 \
     # via -r default.in, celery
-lxml==4.5.2 \
+lxml==4.6.2 \
     --hash=sha256:05a444b207901a68a6526948c7cc8f9fe6d6f24c70781488e32fd74ff5996e3f \
     --hash=sha256:08fc93257dcfe9542c0a6883a25ba4971d78297f63d7a5a26ffa34861ca78730 \
     --hash=sha256:107781b213cf7201ec3806555657ccda67b1fccc4261fb889ef7fc56976db81f \
