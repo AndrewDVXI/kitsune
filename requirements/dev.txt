@@ -84,7 +84,7 @@ distlib==0.3.1 \
 django-cache-panel==0.1 \
     --hash=sha256:42619072257d859c07bf91177070dc2ac925417d4010c8e6b40c23741cb9c46a \
     # via -r dev.in
-django-debug-toolbar==2.2 \
+django-debug-toolbar==2.2.1 \
     --hash=sha256:eabbefe89881bbe4ca7c980ff102e3c35c8e8ad6eb725041f538988f2f39a943 \
     --hash=sha256:ff94725e7aae74b133d0599b9bf89bd4eb8f5d2c964106e61d11750228c8774c \
     # via -r dev.in
