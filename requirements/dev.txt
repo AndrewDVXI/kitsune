@@ -84,7 +84,7 @@ distlib==0.3.1 \
 django-cache-panel==0.1 \
     --hash=sha256:42619072257d859c07bf91177070dc2ac925417d4010c8e6b40c23741cb9c46a \
     # via -r dev.in
-django-debug-toolbar==2.2 \
+django-debug-toolbar==1.11.1 \
     --hash=sha256:eabbefe89881bbe4ca7c980ff102e3c35c8e8ad6eb725041f538988f2f39a943 \
     --hash=sha256:ff94725e7aae74b133d0599b9bf89bd4eb8f5d2c964106e61d11750228c8774c \
     # via -r dev.in
@@ -208,7 +208,7 @@ ptyprocess==0.6.0 \
     --hash=sha256:923f299cc5ad920c68f2bc0bc98b75b9f838b93b599941a6b63ddbc2476394c0 \
     --hash=sha256:d7cc528d76e76342423ca640335bd3633420dc1366f258cb31d05e865ef5ca1f \
     # via pexpect
-pylint==2.5.3 \
+pylint==2.7.0 \
     --hash=sha256:7dd78437f2d8d019717dbf287772d0b2dbdfd13fc016aa7faa08d67bccc46adc \
     --hash=sha256:d0ece7d223fe422088b0e8f13fa0a1e8eb745ebffcb8ed53d3e95394b6101a1c \
     # via -r dev.in
@@ -220,7 +220,7 @@ python-language-server==0.34.1 \
     --hash=sha256:47dd678c261f8fc8af16ce738a637e49e0597ad5e4af10b76f4144ab2d96f247 \
     --hash=sha256:b96ff466b5aa24e212493de863899298f229a9e250e7353972563c7f2495d23d \
     # via -r dev.in
-pyyaml==5.3.1 \
+pyyaml==5.4 \
     --hash=sha256:06a0d7ba600ce0b2d2fe2e78453a470b5a6e000a985dd4a4e54e436cc36b0e97 \
     --hash=sha256:240097ff019d7c70a4922b6869d8a86407758333f02203e0fc6ff79c5dcede76 \
     --hash=sha256:4f4b913ca1a7319b33cfb1369e91e50354d6f07a135f3b901aca02aa95940bd2 \
