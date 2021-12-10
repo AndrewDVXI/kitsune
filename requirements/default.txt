@@ -234,7 +234,7 @@ django-watchman==1.1.1 \
     --hash=sha256:63ed14c13a535ff53540dfea504448588274f96bbd872db67379609274cdf837 \
     --hash=sha256:809097717254534ef4fb251787b35dd4f00e3da68ae8b9361d340062ef966e5e \
     # via -r default.in
-django==2.2.14 \
+django==2.2.25 \
     --hash=sha256:edf0ecf6657713b0435b6757e6069466925cae70d634a3283c96b80c01e06191 \
     --hash=sha256:f2250bd35d0f6c23e930c544629934144e5dd39a4c06092e1050c731c1712ba8 \
     # via -r default.in, django-allow-cidr, django-appconf, django-authority, django-cors-headers, django-filter, django-jinja, django-jsonfield, django-mozilla-product-details, django-multidb-router, django-redis, django-statici18n, django-storages, django-taggit, django-tidings, django-timezone-field, django-user-agents, django-watchman, djangorestframework, mozilla-django-oidc, puente
