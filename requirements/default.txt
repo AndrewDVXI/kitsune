@@ -13,7 +13,7 @@ apscheduler==3.6.3 \
     --hash=sha256:3bb5229eed6fbbdafc13ce962712ae66e175aa214c69bed35a06bffcf0c5e244 \
     --hash=sha256:e8b1ecdb4c7cb2818913f766d5898183c7cb8936680710a4d3a966e02262e526 \
     # via -r default.in
-babel==2.8.0 \
+babel==2.9.1 \
     --hash=sha256:1aac2ae2d0d8ea368fa90906567f5c08463d98ade155c0c4bfedd6a0f7160e38 \
     --hash=sha256:d670ea0b10f8b723672d3a6abeb87b565b244da220d76b4dba1b66269ec152d4 \
     # via puente
@@ -41,7 +41,7 @@ cachetools==4.1.1 \
     --hash=sha256:513d4ff98dd27f85743a8dc0e92f55ddb1b49e060c2d5961512855cda2c01a98 \
     --hash=sha256:bbaa39c3dede00175df2dc2b03d0cf18dd2d32a7de7beb68072d13043c9edb20 \
     # via google-auth, premailer
-celery==4.4.3 \
+celery==5.2.2 \
     --hash=sha256:5147662e23dc6bc39c17a2cbc9a148debe08ecfb128b0eded14a0d9c81fc5742 \
     --hash=sha256:df2937b7536a2a9b18024776a3a46fd281721813636c03a5177fa02fe66078f6 \
     # via -r default.in, django-tidings
@@ -234,7 +234,7 @@ django-watchman==1.1.1 \
     --hash=sha256:63ed14c13a535ff53540dfea504448588274f96bbd872db67379609274cdf837 \
     --hash=sha256:809097717254534ef4fb251787b35dd4f00e3da68ae8b9361d340062ef966e5e \
     # via -r default.in
-django==2.2.14 \
+django==3.2.15 \
     --hash=sha256:edf0ecf6657713b0435b6757e6069466925cae70d634a3283c96b80c01e06191 \
     --hash=sha256:f2250bd35d0f6c23e930c544629934144e5dd39a4c06092e1050c731c1712ba8 \
     # via -r default.in, django-allow-cidr, django-appconf, django-authority, django-cors-headers, django-filter, django-jinja, django-jsonfield, django-mozilla-product-details, django-multidb-router, django-redis, django-statici18n, django-storages, django-taggit, django-tidings, django-timezone-field, django-user-agents, django-watchman, djangorestframework, mozilla-django-oidc, puente
@@ -318,7 +318,7 @@ idna==2.10 \
     --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
     --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0 \
     # via -r default.in, requests
-jinja2==2.11.2 \
+jinja2==2.11.3 \
     --hash=sha256:89aab215427ef59c34ad58735269eb58b1a5808103067f7bb9d5836c651b3bb0 \
     --hash=sha256:f0a4641d3cf955324a89c04f3d94663aa4d638abe8f733ecd3582848e1c37035 \
     # via django-jinja, puente
@@ -608,7 +608,7 @@ six==1.15.0 \
     --hash=sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259 \
     --hash=sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced \
     # via apscheduler, babis, bleach, cryptography, django-extensions, django-jsonfield, django-statici18n, django-waffle, elasticutils, google-api-core, google-api-python-client, google-auth, google-auth-httplib2, html5lib, josepy, mozilla-django-oidc, oauth2client, protobuf, pyopenssl, python-dateutil, python-memcached, translate-toolkit
-sqlparse==0.3.1 \
+sqlparse==0.4.2 \
     --hash=sha256:022fb9c87b524d1f7862b3037e541f68597a730a8843245c349fc93e1643dc4e \
     --hash=sha256:e162203737712307dfe78860cc56c8da8a852ab2ee33750e33aeadf38d12c548 \
     # via django
